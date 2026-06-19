@@ -1,3 +1,3 @@
-# HAG
+# GHA
 
-Hide Anime Guess
+Guess Hide Anime
